@@ -17,7 +17,7 @@ paths:
     post:
       tags:
         - user
-      summary: ユーザ登録API
+      summary: ユーザ登録
       description: |
         クライアントが入力する情報をもとにユーザ情報を登録する
       requestBody:
